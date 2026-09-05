@@ -1,0 +1,1 @@
+import{_ as o}from"./AppointmentsCalendar.vue_vue_type_style_index_0_lang-BhlwIeQB.js";import"./index-C7vcns_C.js";import"./VCard-D-DlEazk.js";import"./VCardText-C4FPOWoY.js";import"./VChip-DMsFDpeo.js";import"./VDivider-VfWsh6Qk.js";export{o as default};

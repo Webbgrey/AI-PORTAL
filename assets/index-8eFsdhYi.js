@@ -1,0 +1,1 @@
+import{d as r,j as t,D as a,o,c as s,b as n,ar as c}from"./index-C7vcns_C.js";const i={class:"d-flex align-center justify-center fill-height"},p=r({__name:"index",setup(d){const e=t();return a(()=>{e.replace("/dashboard")}),(l,u)=>(o(),s("div",i,[n(c,{indeterminate:"",color:"primary"})]))}});export{p as default};
