@@ -1,0 +1,1 @@
+import{d as r,j as t,D as a,o as n,c as o,b as s,ar as c}from"./index-Ba3I3PKE.js";const i={class:"d-flex align-center justify-center py-12"},_=r({__name:"index",setup(d){const e=t();return a(()=>{e.replace("/admin/clients")}),(l,p)=>(n(),o("div",i,[s(c,{indeterminate:"",color:"primary"})]))}});export{_ as default};

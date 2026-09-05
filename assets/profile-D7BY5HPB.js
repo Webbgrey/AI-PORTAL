@@ -1,0 +1,1 @@
+import{d as e,j as r,o,c as t,b as a,ar as s}from"./index-Ba3I3PKE.js";const c={class:"d-flex align-center justify-center pa-10"},_=e({__name:"profile",setup(n){return r().replace("/profile"),(l,p)=>(o(),t("div",c,[a(s,{indeterminate:"",color:"primary"})]))}});export{_ as default};
